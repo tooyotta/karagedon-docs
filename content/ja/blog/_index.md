@@ -1,6 +1,6 @@
 ---
-title: "Docsy Blog"
-linkTitle: "Blog"
+title: "からあげドン運営ブログ"
+linkTitle: "ブログ"
 menu:
   main:
     weight: 30
