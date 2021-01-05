@@ -87,8 +87,9 @@ weight = 1
 section = ["HTML", "print"]
 
 [params]
-copyright = "@tooyotta"
-privacy_policy = "https://karagedon.com/terms"
+copyright = "Naoya Toyota"
+# URL for copyright link
+url = "https://naoyatoyota.com"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
